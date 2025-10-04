@@ -1,0 +1,5 @@
+Proxies
+   -> It is class in that can intercept another class
+
+   * JVM/JDK dynamic proxy
+   * CHLIB proxy
